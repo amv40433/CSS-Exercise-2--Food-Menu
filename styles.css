@@ -1,0 +1,93 @@
+html {
+    background-color: #2F4858;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.FullMenu {
+    border-width: 30px;
+    border-style: solid;
+    border-color: #336699;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: #86BBD8;
+    padding: 20px;
+}
+.meal {
+   text-align: center;
+    background-color: #C1DCEB;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #336699;
+    border-radius: 5px;
+    color: #2F4858;
+    padding: 15px;
+    list-style-type: none;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.Menu {
+    text-align: center;
+    background-color: #C1DCEB;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #336699;
+    border-radius: 5px;
+    color: #2F4858;
+    padding: 5px;
+    font-size: 75px;
+    margin-top: 10px;
+}
+.time {
+    font-size: 20px;
+    color: #2F4858;;
+    margin-bottom: 10px;
+}
+.title {
+    font-size: 50px;
+    color: #2F4858;;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.options {
+    font-size: 30px;
+    color: #2F4858;;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    background-color: #cad9e2;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #464600;
+    border-radius: 5px;
+    padding: 10px;
+}
+.food {
+    font-size: 35px;
+    color: #2F4858;;
+    list-style-type: none;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.ingredients {
+    font-size: 25px;
+    color: #2F4858;;
+    list-style-type: disc;
+    margin-bottom: 5px;
+}
+.diet {
+    font-size: 20px;
+    color: #cad9e2;
+    list-style-type: none;
+    background-color: #2F4858;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #464600;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block
+}
